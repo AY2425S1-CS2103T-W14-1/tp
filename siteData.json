@@ -121,6 +121,8 @@
         "deleting-a-supplier-delete": "Deleting a supplier : delete",
         "here-s-how-it-would-look-like-in-the-app-2": "Here's how it would look like in the app:",
         "adding-a-delivery-add": "Adding a delivery: add",
+        "marking-a-delivery-mark-d": "Marking a delivery : mark -d",
+        "deleting-a-delivery-delete-d": "Deleting a delivery : delete -d",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
@@ -128,7 +130,10 @@
         "archiving-data-files-coming-in-v2-0": "Archiving data files [coming in v2.0]",
         "faq": "FAQ",
         "known-issues": "Known issues",
-        "command-summary": "Command summary"
+        "command-summary": "Command summary",
+        "supplier-commands": "Supplier Commands",
+        "delivery-commands": "Delivery Commands",
+        "general-commands": "General Commands"
       },
       "headingKeywords": {}
     },
