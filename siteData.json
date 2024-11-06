@@ -127,6 +127,7 @@
         "marking-a-delivery-mark-d": "Marking a delivery : mark -d",
         "deleting-a-delivery-delete-d": "Deleting a delivery : delete -d",
         "find-a-delivery-find-d": "Find a delivery: find -d",
+        "sort-deliveries-sort-d": "Sort deliveries: sort -d",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
         "editing-the-data-file": "Editing the data file",
