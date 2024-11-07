@@ -114,7 +114,7 @@
         "delivery-commands": "Delivery Commands",
         "general-commands": "General Commands",
         "viewing-help-help": "Viewing help : help",
-        "viewing-all-deliveries-and-suppliers-list": "Viewing all deliveries and suppliers : list",
+        "viewing-all-deliveries-and-suppliers-list-a": "Viewing all deliveries and suppliers : list -a",
         "supplier-commands-2": " Supplier Commands ",
         "adding-a-supplier-add-s": "Adding a supplier: add -s",
         "listing-all-suppliers-list-s": "Listing all suppliers: list -s",
