@@ -63,6 +63,13 @@
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
         "deleting-a-supplier": "Deleting a supplier",
+        "adding-a-delivery": "Adding a delivery",
+        "listing-all-deliveries": "Listing all deliveries",
+        "marking-a-delivery": "Marking a delivery",
+        "deleting-a-delivery": "Deleting a delivery",
+        "finding-a-delivery": "Finding a delivery",
+        "sorting-deliveries": "Sorting deliveries",
+        "upcoming-deliveries": "Upcoming deliveries",
         "saving-data": "Saving data"
       },
       "headingKeywords": {}
