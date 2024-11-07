@@ -338,7 +338,7 @@ with(this){return _c('h3',{attrs:{"id":"saving-the-data"}},[_v("Saving the data"
 with(this){return _c('h3',{attrs:{"id":"editing-the-data-file"}},[_v("Editing the data file"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#editing-the-data-file","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("AddressBook automatically saves your data as a JSON file "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("[JAR file location]/data/addressbook.json")]),_v(". Advanced users are welcome to update data directly by editing that data file.")])}
+with(this){return _c('p',[_v("AddressBook automatically saves your data as a JSON file "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("[JAR file location]/data/vendorvault.json")]),_v(". Advanced users are welcome to update data directly by editing that data file.")])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"archiving-data-files-coming-in-v2-0"}},[_v("Archiving data files "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("[coming in v2.0]")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#archiving-data-files-coming-in-v2-0","onclick":"event.stopPropagation()"}})])}
@@ -362,6 +362,6 @@ with(this){return _c('ol',[_c('li',[_c('strong',[_v("When using multiple screens
 with(this){return _c('p',[_c('a',{attrs:{"href":"#vendor-vault-user-guide"}},[_v("Back to Top")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Fri, 8 Nov 2024, 1:22:14 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Fri, 8 Nov 2024, 1:42:33 GMT+8]")])])])}
 }];
   
