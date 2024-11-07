@@ -396,15 +396,14 @@
     -fx-vgap: 3;
 }
 
-#tags .label {
+.tag-label {
     -fx-text-fill: white;
     -fx-background-color: #913e3e;
     -fx-padding: 3 6 3 6;
     -fx-border-radius: 5px;
     -fx-background-radius: 5px;
-    -fx-font-size: 11;
+    -fx-font-size: 11px;
     -fx-wrap-text: true;
-    -fx-max-width: 300px;
 }
 
 #products {
@@ -412,14 +411,13 @@
     -fx-vgap: 3;
 }
 
-#products .label {
+.product-label {
     -fx-text-fill: white;
     -fx-background-color: #34a6ed;
-    -fx-padding: 3 6 6 3;
+    -fx-padding: 3 6 3 6;
     -fx-border-radius: 5px;
     -fx-background-radius: 5px;
-    -fx-font-size: 11;
+    -fx-font-size: 11px;
     -fx-wrap-text: true;
-    -fx-max-width: 300px;
 }
 

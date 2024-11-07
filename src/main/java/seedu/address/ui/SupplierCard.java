@@ -58,10 +58,22 @@ public class SupplierCard extends UiPart<Region> {
         email.setText(supplier.getEmail().value);
         supplier.getTags().stream()
                 .sorted(Comparator.comparing(tag -> tag.tagName))
-                .forEach(tag -> tags.getChildren().add(new Label(tag.tagName)));
+                .forEach(tag -> {
+                    Label tagLabel = new Label(tag.tagName);
+                    tagLabel.setWrapText(true);
+                    tagLabel.setMaxWidth(200); // Set a max width for wrapping
+                    tagLabel.getStyleClass().add("tag-label"); // Use a CSS class
+                    tags.getChildren().add(tagLabel);
+                });
         supplier.getProducts().stream()
                 .sorted(Comparator.comparing(product -> product.productName))
-                .forEach(product -> products.getChildren().add(new Label(product.productName)));
+                .forEach(product -> {
+                    Label productLabel = new Label(product.productName);
+                    productLabel.setWrapText(true);
+                    productLabel.setMaxWidth(200); // Set a max width for wrapping
+                    productLabel.getStyleClass().add("product-label"); // Use a CSS class
+                    products.getChildren().add(productLabel);
+                });
         setStatusStyle(supplier.getStatus().status);
         status.setText(supplier.getStatus().status.toUpperCase());
     }
