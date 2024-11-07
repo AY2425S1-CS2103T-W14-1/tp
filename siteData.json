@@ -62,7 +62,13 @@
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
+        "testing-supplier-commands": "Testing Supplier Commands",
+        "finding-a-supplier": "Finding a supplier",
         "deleting-a-supplier": "Deleting a supplier",
+        "sorting-suppliers": "Sorting suppliers",
+        "listing-suppliers": "Listing suppliers",
+        "mark-supplier-status": "Mark supplier status",
+        "testing-delivery-commands": "Testing Delivery Commands",
         "adding-a-delivery": "Adding a delivery",
         "listing-all-deliveries": "Listing all deliveries",
         "marking-a-delivery": "Marking a delivery",
@@ -70,7 +76,8 @@
         "finding-a-delivery": "Finding a delivery",
         "sorting-deliveries": "Sorting deliveries",
         "upcoming-deliveries": "Upcoming deliveries",
-        "saving-data": "Saving data"
+        "saving-data": "Saving data",
+        "exiting-the-app": "Exiting the app"
       },
       "headingKeywords": {}
     },
