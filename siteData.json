@@ -129,6 +129,7 @@
         "general-commands": "General Commands",
         "viewing-help-help": "Viewing help : help",
         "viewing-all-deliveries-and-suppliers-list-a": "Viewing all deliveries and suppliers : list -a",
+        "clearing-all-suppliers-and-deliveries-clear": "Clearing all suppliers and deliveries : clear",
         "supplier-commands-2": " Supplier Commands ",
         "adding-a-supplier-add-s": "Adding a supplier: add -s",
         "listing-all-suppliers-list-s": "Listing all suppliers: list -s",
