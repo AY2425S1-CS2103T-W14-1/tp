@@ -467,7 +467,7 @@ with(this){return _c('ol',[_c('li',[_v("The system should respond to user input 
 with(this){return _c('h4',{attrs:{"id":"scalability-requirements"}},[_v("Scalability Requirements"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#scalability-requirements","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('ol',{attrs:{"start":"3"}},[_c('li',[_v("The system should be able to handle at least 1,000 contacts and 1000 deliveries without noticeable degradation in performance")])])}
+with(this){return _c('ol',{attrs:{"start":"3"}},[_c('li',[_v("The system should be able to handle at least 100 contacts and 200 deliveries without noticeable degradation in performance")])])}
 },function anonymous(
 ) {
 with(this){return _c('h4',{attrs:{"id":"usability-requirements"}},[_v("Usability Requirements"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usability-requirements","onclick":"event.stopPropagation()"}})])}
@@ -626,6 +626,6 @@ with(this){return _c('h3',{attrs:{"id":"exiting-the-app"}},[_v("Exiting the app"
 with(this){return _c('ol',[_c('li',[_v("Test case: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("exit")]),_c('br'),_v("\nExpected: The app closes.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Fri, 8 Nov 2024, 3:14:59 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Fri, 8 Nov 2024, 9:45:23 GMT+8]")])])])}
 }];
   
