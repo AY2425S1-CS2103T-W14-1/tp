@@ -138,8 +138,8 @@
         "delivery-commands": " Delivery Commands ",
         "adding-a-delivery-add-d": "Adding a delivery: add -d",
         "listing-all-deliveries-list-d": "Listing all deliveries: list -d",
-        "marking-a-delivery-mark-d": "Marking a delivery : mark -d",
         "deleting-a-delivery-delete-d": "Deleting a delivery : delete -d",
+        "marking-a-delivery-mark-d": "Marking a delivery : mark -d",
         "find-a-delivery-find-d": "Find a delivery: find -d",
         "sort-deliveries-sort-d": "Sort deliveries: sort -d",
         "upcoming-deliveries-upcoming": "Upcoming deliveries: upcoming",
@@ -152,7 +152,8 @@
         "command-summary": "Command Summary",
         "general-commands": "General Commands",
         "supplier-specific-commands": "Supplier-specific Commands",
-        "delivery-specific-commands": "Delivery-specific Commands"
+        "delivery-specific-commands": "Delivery-specific Commands",
+        "glossary": "Glossary"
       },
       "headingKeywords": {}
     },
