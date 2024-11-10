@@ -120,24 +120,22 @@
     {
       "src": "UserGuide.md",
       "headings": {
-        "vendor-vault-user-guide": "Vendor Vault User Guide",
-        "quick-start": "Quick start",
+        "vendorvault-user-guide": "VendorVault User Guide",
+        "table-of-contents-will-be-added-here-by-linkes": "Table of Contents will be added here by Linkes",
+        "how-to-get-started": "How to get started",
+        "setting-up-vendorvault": "Setting up VendorVault",
         "features": "Features",
-        "command-table-of-content": "Command table of content",
-        "supplier-commands": "Supplier Commands",
-        "delivery-commands": "Delivery Commands",
-        "general-commands": "General Commands",
         "viewing-help-help": "Viewing help : help",
         "viewing-all-deliveries-and-suppliers-list-a": "Viewing all deliveries and suppliers : list -a",
         "clearing-all-suppliers-and-deliveries-clear": "Clearing all suppliers and deliveries : clear",
-        "supplier-commands-2": " Supplier Commands ",
+        "supplier-commands": " Supplier Commands ",
         "adding-a-supplier-add-s": "Adding a supplier: add -s",
         "listing-all-suppliers-list-s": "Listing all suppliers: list -s",
         "deleting-a-supplier-delete-s": "Deleting a supplier : delete -s",
         "mark-a-supplier-with-a-status-mark-s": "Mark a supplier with a status : mark -s",
         "find-a-supplier-find-s": "Find a supplier: find -s",
         "sort-suppliers-sort-s": "Sort suppliers: sort -s",
-        "delivery-commands-2": " Delivery Commands ",
+        "delivery-commands": " Delivery Commands ",
         "adding-a-delivery-add-d": "Adding a delivery: add -d",
         "listing-all-deliveries-list-d": "Listing all deliveries: list -d",
         "marking-a-delivery-mark-d": "Marking a delivery : mark -d",
@@ -151,7 +149,11 @@
         "editing-the-data-file": "Editing the data file",
         "archiving-data-files-coming-in-v2-0": "Archiving data files [coming in v2.0]",
         "faq": "FAQ",
-        "known-issues": "Known issues"
+        "known-issues": "Known issues",
+        "command-summary": "Command Summary",
+        "general-commands": "General Commands",
+        "supplier-specific-commands": "Supplier-specific Commands",
+        "delivery-specific-commands": "Delivery-specific Commands"
       },
       "headingKeywords": {}
     },
@@ -159,7 +161,7 @@
       "src": "index.md",
       "title": "",
       "headings": {
-        "addressbook-level-3": "AddressBook Level-3"
+        "vendorvault-level-3": "VendorVault Level-3"
       },
       "headingKeywords": {}
     },
