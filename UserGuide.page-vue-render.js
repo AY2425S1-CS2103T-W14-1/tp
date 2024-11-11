@@ -116,7 +116,7 @@ with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inl
 with(this){return _c('h4',{attrs:{"id":"here-s-how-it-would-look-like-in-the-app-2"}},[_v("Here's how it would look like in the app:"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#here-s-how-it-would-look-like-in-the-app-2","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("TO UPDATE IMAGE AFTER FINAL UPDATE TO APPLICATION!!!\n"),_c('a',{attrs:{"href":"/tp/images/addSupplierCommand.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/addSupplierCommand.png","alt":"add Command"}})])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/images/addSupplierCommand.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/addSupplierCommand.png","alt":"add Command"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("[Back to Table of Contents]")])])}
@@ -146,7 +146,7 @@ with(this){return _c('ul',[_c('li',[_v("Supplier at index 3 is deleted, assuming
 with(this){return _c('h4',{attrs:{"id":"here-s-how-it-would-look-like-in-the-app-3"}},[_v("Here's how it would look like in the app:"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#here-s-how-it-would-look-like-in-the-app-3","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("TO UPDATE IMAGE AFTER FINAL UPDATE TO APPLICATION!!!\n"),_c('a',{attrs:{"href":"/tp/images/deleteSupplierCommand.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/deleteSupplierCommand.png","alt":"delete command"}})])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/images/deleteSupplierCommand.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/deleteSupplierCommand.png","alt":"delete command"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("[Back to Table of Contents]")])])}
@@ -158,10 +158,10 @@ with(this){return _c('h3',{attrs:{"id":"3-3-4-marking-a-supplier-mark-s"}},[_v("
 with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("mark -s INDEX STATUS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("mark -s 3 active")])]),_v(" "),_c('li',[_v("Sorting by name using "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("sort -s so/a sb/n")]),_v(" followed by "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("mark -s 1 inactive")])])])}
+with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("mark -s 3 inactive")])]),_v(" "),_c('li',[_v("Sorting by name using "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("sort -s so/a sb/n")]),_v(" followed by "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("mark -s 1 active")])])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("Supplier at index 3 of the displayed list will be marked as "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("active")]),_v(", assuming there is at least three suppliers displayed and the third supplier is not currently "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("active")]),_v(". Otherwise, an error message will be shown.")]),_v(" "),_c('li',[_v("Supplier at index 1 of the displayed list will be status marked as "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("inactive")]),_v(", assuming there is at least one supplier displayed and the first supplier is not currently "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("inactive")]),_v(". Otherwise, an error message wil be shown.")])])}
+with(this){return _c('ul',[_c('li',[_v("Supplier at index 3 of the displayed list will be marked as "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("inactive")]),_v(", assuming there is at least three suppliers displayed and the third supplier is not currently "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("inactive")]),_v(". Otherwise, an error message will be shown.")]),_v(" "),_c('li',[_v("Supplier at index 1 of the displayed list will be status marked as "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("active")]),_v(", assuming there is at least one supplier displayed and the first supplier is not currently "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("active")]),_v(". Otherwise, an error message wil be shown.")])])}
 },function anonymous(
 ) {
 with(this){return _c('h4',{attrs:{"id":"here-s-how-it-would-look-like-in-the-app-4"}},[_v("Here's how it would look like in the app:"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#here-s-how-it-would-look-like-in-the-app-4","onclick":"event.stopPropagation()"}})])}
@@ -179,10 +179,10 @@ with(this){return _c('h3',{attrs:{"id":"3-3-5-finding-suppliers-find-s"}},[_v("3
 with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find -s n/NAME com/COMPANY pro/PRODUCT")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find -s n/link com/NU")])])])}
+with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find -s n/john com/companya")])])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("All suppliers with "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("name")]),_v(" containing "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("link")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("COMPANY")]),_v(" containing "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("NU")]),_v(" are shown.")])])}
+with(this){return _c('ul',[_c('li',[_v("All suppliers with "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("name")]),_v(" containing "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("john")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("COMPANY")]),_v(" containing "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("companya")]),_v(" are shown.")])])}
 },function anonymous(
 ) {
 with(this){return _c('h4',{attrs:{"id":"here-s-how-it-would-look-like-in-the-app-5"}},[_v("Here's how it would look like in the app:"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#here-s-how-it-would-look-like-in-the-app-5","onclick":"event.stopPropagation()"}})])}
@@ -224,7 +224,7 @@ with(this){return _c('h3',{attrs:{"id":"3-4-1-adding-a-delivery-add-d"}},[_v("3.
 with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add -d on/DELIVERY_DATE_TIME s/SUPPLIER_INDEX pro/PRODUCT q/QUANTITY c/COST")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add -d on/18-06-2024 17:00 s/1 pro/bread q/500 g c/25.50")])]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add -d on/19-12-2022 08:00 s/2 pro/rice q/50 kg c/50.20 ")])])])}
+with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add -d on/18-06-2024 17:00 s/1 pro/bread q/500 g c/25.50")])]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add -d on/19-12-2022 08:00 s/2 pro/rice q/50 kg c/50.20")])])])}
 },function anonymous(
 ) {
 with(this){return _c('ul',[_c('li',[_v("Delivery details are shown and paired to supplier at index 1, assuming there is a supplier at index 1 with an "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("ACTIVE")]),_v(" status. Otherwise, an error message will be shown.")]),_v(" "),_c('li',[_v("Delivery details are shown and paired to supplier at index 2, assuming there is a supplier at index 2 with an "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("ACTIVE")]),_v(" status. Otherwise, an error message will be shown.")])])}
@@ -296,10 +296,10 @@ with(this){return _c('h3',{attrs:{"id":"3-4-5-finding-deliveries-find-d"}},[_v("
 with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find -d on/DELIVERY_DATE_TIME stat/STATUS s/SUPPLIER_INDEX pro/PRODUCT")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find -d on/ 28-06-2025 17:00 pro/ milk")])])])}
+with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find -d on/18-06-2024 15:00 pro/rice")])])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("Deliveries of products that contains \"milk\" on \"28-06-2025 17:00\", if any, will be displayed.")])])}
+with(this){return _c('ul',[_c('li',[_v("Deliveries of products that contains \"rice\" on \"18-06-2024 15:00\", if any, will be displayed.")])])}
 },function anonymous(
 ) {
 with(this){return _c('h4',{attrs:{"id":"here-s-how-it-would-look-like-in-the-app-10"}},[_v("Here's how it would look like in the app:"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#here-s-how-it-would-look-like-in-the-app-10","onclick":"event.stopPropagation()"}})])}
@@ -326,7 +326,7 @@ with(this){return _c('ul',[_c('li',[_v("Deliveries sorted by their "),_c('code',
 with(this){return _c('h4',{attrs:{"id":"here-s-how-it-would-look-like-in-the-app-11"}},[_v("Here's how it would look like in the app:"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#here-s-how-it-would-look-like-in-the-app-11","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/images/sortDeliveriesCommand.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/sortDeliveriesCommand.png","alt":"sort command"}})])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/images/sortDeliveryCommand.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/sortDeliveryCommand.png","alt":"sort command"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("[Back to Table of Contents]")])])}
@@ -341,10 +341,10 @@ with(this){return _c('p',[_v("Shows a list of "),_c('strong',[_v("pending")]),_v
 with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("upcoming aft/DELIVERY_DATE_TIME bef/DELIVERY_DATE_TIME")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("upcoming aft/19-12-2022 08:00 bef/18-06-2023 17:00")])]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("upcoming aft/19-12-2022 08:00")])])])}
+with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("upcoming aft/19-12-2022 08:00 bef/20-06-2024 17:00")])]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("upcoming aft/19-12-2022 08:00")])])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("All deliveries with status "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("PENDING")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("DELIVERY_DATE_TIME")]),_v(" after 19-12-2022 08:00 and before 18-06-2023 17:00 are shown.")]),_v(" "),_c('li',[_v("All deliveries with status "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("PENDING")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("DELIVERY_DATE_TIME")]),_v(" after 19-12-2022 08:00 are shown.")])])}
+with(this){return _c('ul',[_c('li',[_v("All deliveries with status "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("PENDING")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("DELIVERY_DATE_TIME")]),_v(" after 19-12-2022 08:00 and before 20-06-2024 17:00 are shown.")]),_v(" "),_c('li',[_v("All deliveries with status "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("PENDING")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("DELIVERY_DATE_TIME")]),_v(" after 19-12-2022 08:00 are shown.")])])}
 },function anonymous(
 ) {
 with(this){return _c('h4',{attrs:{"id":"here-s-how-it-would-look-like-in-the-app-12"}},[_v("Here's how it would look like in the app:"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#here-s-how-it-would-look-like-in-the-app-12","onclick":"event.stopPropagation()"}})])}
@@ -467,6 +467,6 @@ with(this){return _c('ul',[_c('li',[_c('strong',[_v("CLI (Command-Line Interface
 with(this){return _c('p',[_c('a',{attrs:{"href":"#vendorvault-user-guide"}},[_v("Back to Top")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Mon, 11 Nov 2024, 22:27:42 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Mon, 11 Nov 2024, 22:40:37 GMT+8]")])])])}
 }];
   
