@@ -50,8 +50,6 @@
         "model-component": "Model component",
         "storage-component": "Storage component",
         "common-classes": "Common classes",
-        "implementation": "Implementation",
-        "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
         "product-scope": "Product scope",
@@ -77,6 +75,11 @@
         "upcoming-deliveries": "Upcoming deliveries",
         "saving-data": "Saving data",
         "exiting-the-app": "Exiting the app",
+        "appendix-effort": "Appendix: Effort",
+        "difficulty-level": "Difficulty Level",
+        "challenges-faced": "Challenges Faced",
+        "effort-required": "Effort Required",
+        "achievements": "Achievements",
         "appendix-planned-enhancements": "Appendix: Planned Enhancements"
       },
       "headingKeywords": {}
