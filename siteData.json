@@ -135,7 +135,7 @@
         "3-3-1-adding-a-supplier-add-s": "3.3.1. Adding a supplier: add -s",
         "3-3-2-listing-all-suppliers-list-s": "3.3.2. Listing all suppliers: list -s",
         "3-3-3-deleting-a-supplier-delete-s": "3.3.3. Deleting a supplier : delete -s",
-        "3-3-4-marking-a-supplier-with-a-status-mark-s": "3.3.4. Marking a supplier with a status : mark -s",
+        "3-3-4-marking-a-supplier-mark-s": "3.3.4. Marking a supplier : mark -s",
         "3-3-5-finding-suppliers-find-s": "3.3.5. Finding suppliers: find -s",
         "3-3-6-sorting-suppliers-sort-s": "3.3.6. Sorting suppliers: sort -s",
         "3-4-delivery-commands": "3.4. Delivery Commands",
